@@ -1,0 +1,9 @@
+[user]
+    name = Wisnu Nugroho
+    email = wisnunugroho614@gmail.com
+
+[init]
+    defaultBranch = main
+
+[core]
+    editor = nvim
